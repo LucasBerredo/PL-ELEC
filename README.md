@@ -1,6 +1,6 @@
 # PL-ELEC
 
-Código complementario a las Prácticas de Laboratorio de la asignatura Electromagnetismo en la Universidad de Oviedo.
+Código complementario a las Prácticas de Laboratorio de la asignatura Electrónica en la Universidad de Oviedo.
 
 ## Cómo ejecutar el código
 
